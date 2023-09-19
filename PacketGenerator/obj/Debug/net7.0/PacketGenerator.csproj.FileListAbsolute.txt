@@ -1,0 +1,15 @@
+/Users/rina/Projects/ChopEndProject/PacketGenerator/bin/Debug/net7.0/PacketGenerator
+/Users/rina/Projects/ChopEndProject/PacketGenerator/bin/Debug/net7.0/PacketGenerator.deps.json
+/Users/rina/Projects/ChopEndProject/PacketGenerator/bin/Debug/net7.0/PacketGenerator.runtimeconfig.json
+/Users/rina/Projects/ChopEndProject/PacketGenerator/bin/Debug/net7.0/PacketGenerator.dll
+/Users/rina/Projects/ChopEndProject/PacketGenerator/bin/Debug/net7.0/PacketGenerator.pdb
+/Users/rina/Projects/ChopEndProject/PacketGenerator/obj/Debug/net7.0/PacketGenerator.csproj.AssemblyReference.cache
+/Users/rina/Projects/ChopEndProject/PacketGenerator/obj/Debug/net7.0/PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rina/Projects/ChopEndProject/PacketGenerator/obj/Debug/net7.0/PacketGenerator.AssemblyInfoInputs.cache
+/Users/rina/Projects/ChopEndProject/PacketGenerator/obj/Debug/net7.0/PacketGenerator.AssemblyInfo.cs
+/Users/rina/Projects/ChopEndProject/PacketGenerator/obj/Debug/net7.0/PacketGenerator.csproj.CoreCompileInputs.cache
+/Users/rina/Projects/ChopEndProject/PacketGenerator/obj/Debug/net7.0/PacketGenerator.dll
+/Users/rina/Projects/ChopEndProject/PacketGenerator/obj/Debug/net7.0/refint/PacketGenerator.dll
+/Users/rina/Projects/ChopEndProject/PacketGenerator/obj/Debug/net7.0/PacketGenerator.pdb
+/Users/rina/Projects/ChopEndProject/PacketGenerator/obj/Debug/net7.0/PacketGenerator.genruntimeconfig.cache
+/Users/rina/Projects/ChopEndProject/PacketGenerator/obj/Debug/net7.0/ref/PacketGenerator.dll

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{79A979EA-7383-4A82-AEEB-E4109E4377D4}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChopEndProject FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SeverCore FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ChopEndClient FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PacketGenerator FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChopEndProject/Program.cs">
+    <Files>
+      <File FileName="ChopEndClient/Program.cs" Line="1" Column="1" />
+      <File FileName="SeverCore/Program.cs" Line="1" Column="1" />
+      <File FileName="PacketGenerator/Program.cs" Line="1" Column="1" />
+      <File FileName="ChopEndProject/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChopEndProject" expanded="True">
+            <Node name="ChopEndClient" expanded="True" />
+            <Node name="ChopEndProject" expanded="True">
+              <Node name="Packets" expanded="True" />
+              <Node name="Sessions" expanded="True" />
+            </Node>
+            <Node name="PacketGenerator" expanded="True" />
+            <Node name="SeverCore" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

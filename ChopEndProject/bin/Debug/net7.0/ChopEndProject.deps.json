@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ChopEndProject/1.0.0": {
+        "dependencies": {
+          "SeverCore": "1.0.0"
+        },
+        "runtime": {
+          "ChopEndProject.dll": {}
+        }
+      },
+      "SeverCore/1.0.0": {
+        "runtime": {
+          "SeverCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChopEndProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SeverCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

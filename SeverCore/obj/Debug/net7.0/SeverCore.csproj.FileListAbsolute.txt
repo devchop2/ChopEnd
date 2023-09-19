@@ -1,0 +1,12 @@
+/Users/rina/Projects/ChopEndProject/SeverCore/obj/Debug/net7.0/SeverCore.csproj.AssemblyReference.cache
+/Users/rina/Projects/ChopEndProject/SeverCore/obj/Debug/net7.0/SeverCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rina/Projects/ChopEndProject/SeverCore/obj/Debug/net7.0/SeverCore.AssemblyInfoInputs.cache
+/Users/rina/Projects/ChopEndProject/SeverCore/obj/Debug/net7.0/SeverCore.AssemblyInfo.cs
+/Users/rina/Projects/ChopEndProject/SeverCore/obj/Debug/net7.0/SeverCore.csproj.CoreCompileInputs.cache
+/Users/rina/Projects/ChopEndProject/SeverCore/bin/Debug/net7.0/SeverCore.deps.json
+/Users/rina/Projects/ChopEndProject/SeverCore/bin/Debug/net7.0/SeverCore.dll
+/Users/rina/Projects/ChopEndProject/SeverCore/bin/Debug/net7.0/SeverCore.pdb
+/Users/rina/Projects/ChopEndProject/SeverCore/obj/Debug/net7.0/SeverCore.dll
+/Users/rina/Projects/ChopEndProject/SeverCore/obj/Debug/net7.0/refint/SeverCore.dll
+/Users/rina/Projects/ChopEndProject/SeverCore/obj/Debug/net7.0/SeverCore.pdb
+/Users/rina/Projects/ChopEndProject/SeverCore/obj/Debug/net7.0/ref/SeverCore.dll
